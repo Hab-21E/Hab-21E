@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hab-21E
 - 👀 I’m interested in ...Programming, Cyber Security 
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...any projects
-- 📫 How to reach me ...twitter: @HabtemariamMulu
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...twitter: @Habte_Theotokos
 
 <!---
 Hab-21E/Hab-21E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
